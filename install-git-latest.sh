@@ -1,5 +1,5 @@
 #!/bin/sh
 sudo yum install epel-release
-sudo yum install https://centos7.iuscommunity.org/ius-release.rpm
+sudo yum install http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-release-7-2.noarch.rpm
 sudo yum update
-sudo yum install git2u
+sudo yum install git
